@@ -1,3 +1,4 @@
+// Implement a function to check if a string is palindrome or not
 function isPalindrome(input){
   if (typeof input !== "string"){
     return null;
